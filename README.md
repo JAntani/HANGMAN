@@ -1,2 +1,2 @@
 # HANGMAN
-Hnagman using Python3
+Hangman using Python3
